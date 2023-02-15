@@ -1,5 +1,5 @@
 # 💫 About Me:
-HSE IT student<br>C<br>Python<br>HTML+CSS<br>(ready to work)
+HSE IT student<br>C/C++<br>Python<br>Swift<br>Html,css<br>(ready to work)
 
 
 ## 🌐 Socials:
